@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
-title = "OMEGA"
+title = "Estacion Maker"
 theme = "omega"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
